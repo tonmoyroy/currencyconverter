@@ -6,7 +6,7 @@ Home Assignment 4
 - REST API (https://openexchangerates.org/api/latest.json?app_id=c711b4b790394dbda5c198180f42e60a)
 
 
-# MySQL TABLE STRUCTURE-
+# MySQL TABLE STRUCTURE
 
 ```
 CREATE TABLE `users` (
