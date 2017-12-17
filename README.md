@@ -1,9 +1,13 @@
 # Online Currency Converter
 Home Assignment 4
 
+
+KEY FUNCTIONALITES
+
 - User Registration/Login
 - 7 Types of Currency Conversion
 - REST API (https://openexchangerates.org/api/latest.json?app_id=c711b4b790394dbda5c198180f42e60a)
+- Spring Framework, Hibernate, Spring Security, Bootstrap, Jquery, JavaScript, MySQL, HTML/CSS
 
 
 # MySQL TABLE STRUCTURE
